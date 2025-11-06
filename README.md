@@ -1,1 +1,1 @@
-# lsd-detection-segmentation-severit
+# lsd-detection-segmentation-severity
